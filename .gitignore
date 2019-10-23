@@ -2,3 +2,5 @@
 **/screenshots
 **/videos
 *.log
+.vs
+.vscode
